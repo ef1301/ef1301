@@ -1,8 +1,11 @@
 ### Hi there 👋
-😄 Pronouns: she/her
+Pronouns: she/her
 
-<img align="center" src="https://i.pinimg.com/originals/24/69/dc/2469dc167b689508905f1e908d9d5395.gif" style="display:inline-block">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ef1301&layout=compact&theme=dracula&langs_count=4">
+<img align="center" src="https://i.pinimg.com/originals/24/69/dc/2469dc167b689508905f1e908d9d5395.gif" style="width:100%">
+Greetings! I am Emily, a rising senior majoring in Computer Science based in New York, NY. Some of my hobbies are playing games with friends, music, anime and learning new things!
+
+This summer I will be diving more deeply into frontend development as well as the computer science and design intersection so any advice or insight is welcome!
+***
 
 <details>
 <summary>🔭 I’m currently working on</summary>
@@ -21,6 +24,9 @@
   </ul>
 </details>
 
+***
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ef1301&layout=compact&theme=dracula&langs_count=4">
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
