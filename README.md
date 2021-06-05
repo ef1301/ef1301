@@ -1,10 +1,10 @@
 ### Hi there 👋
 Pronouns: she/her
 
-<img align="center" src="https://i.pinimg.com/originals/24/69/dc/2469dc167b689508905f1e908d9d5395.gif" style="width:100%">
-Greetings! I am Emily, a rising senior majoring in Computer Science based in New York, NY. Some of my hobbies are playing games with friends, music, anime and learning new things!
-
-This summer I will be diving more deeply into frontend development as well as the computer science and design intersection so any advice or insight is welcome!
+<img align="center" src="https://i.pinimg.com/originals/24/69/dc/2469dc167b689508905f1e908d9d5395.gif">
+## Greetings! I am Emily, a rising senior majoring in Computer Science based in New York, NY. Some of my hobbies are playing games with friends, music, anime and learning new things!
+<br>
+## This summer I will be diving more deeply into frontend development as well as the computer science and design intersection so any advice or insight is welcome!
 ***
 
 <details>
