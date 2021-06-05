@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://i.pinimg.com/originals/24/69/dc/2469dc167b689508905f1e908d9d5395.gif">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ef1301&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3""
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ef1301&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
