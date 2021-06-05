@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img src="https://i.pinimg.com/originals/24/69/dc/2469dc167b689508905f1e908d9d5395.gif" width="30px">
