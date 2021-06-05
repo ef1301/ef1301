@@ -13,6 +13,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ef1301&layout=compact&theme=dracula&langs_count=4">
 
-[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=ef1301)](https://github.com/anuraghazra/github-readme-stats)
+[![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=ef1301)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+)
 
 
