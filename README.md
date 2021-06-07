@@ -11,6 +11,7 @@ This summer I will be diving more deeply into frontend development as well as th
   <ul>
     <li>Personal Website</li>
     <li>Codepath Technical Interview Camp</li>
+    <li>#GoogleCloudReady Challenge</li>
   </ul>
 </details>
 
